@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113367560548",
+    "project_id": "wallpapers-d8abb",
+    "storage_bucket": "wallpapers-d8abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113367560548:android:bb16fd4e0ce3d25e974a71",
+        "android_client_info": {
+          "package_name": "dev.davlatov.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113367560548-kchn724dmge8tu3qtam895p8719etqgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.davlatov.wallpapers",
+            "certificate_hash": "0995aad8cc17984d125ef528f24a4db56c2b13d8"
+          }
+        },
+        {
+          "client_id": "113367560548-1k4rpct5aghkgbldf0ovo89b34mm47qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1w_SOOV5ny6IbhgkCRdW8D9_wrrYiQHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113367560548-1k4rpct5aghkgbldf0ovo89b34mm47qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
